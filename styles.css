@@ -1,0 +1,10 @@
+body{
+
+color: gold;/*color de la letra*/
+border: 4px solid blue;/* GROSOR DEL borde de la pagina */
+width: 99%;/*el ancho de la pagina*/
+background-image: linear-gradient(to right,#9400d3, #ff4500,#32cd32); /*color de toda la pagina para mesclar*/
+border-color: powderblue;/*COLOR DEL BORDE DE LA PAGINA*/
+font-weight: bold;/*PONER LA LETRA EN NEGRITA */
+
+}
